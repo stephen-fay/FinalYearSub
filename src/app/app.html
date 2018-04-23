@@ -1,0 +1,58 @@
+
+<ion-menu [content]="content" id="unauthenticated">
+  <ion-header>
+    <ion-navbar color="primary">
+      <ion-title>Menu</ion-title>
+    </ion-navbar>
+  </ion-header>
+  <ion-content>
+    <button menuClose ion-item *ngFor="let login of login" (click)="openPage(login)">
+      <ion-icon name="log-in"></ion-icon>
+      Log in
+    </button>
+  </ion-content>
+
+</ion-menu>
+
+<ion-menu [content]="content" id="authenticated">
+
+  <ion-header>
+    <ion-navbar color="primary">
+      <ion-title>Menu</ion-title>
+    </ion-navbar>
+  </ion-header>
+  <ion-content>
+      <button menuClose ion-item  (click)="logout()">
+        <ion-icon name="log-out"></ion-icon>
+        Log Out
+      </button>
+
+      <button menuClose ion-item *ngFor="let login of pages" (click)="openPage(login)">
+        <ion-icon name="medkit"></ion-icon>
+        {{login.title}}
+      </button>
+  </ion-content>
+  </ion-menu>
+
+
+  <ion-menu [content]="content" id="admin">
+
+    <ion-header>
+      <ion-navbar color="primary">
+        <ion-title>Menu</ion-title>
+      </ion-navbar>
+    </ion-header>
+    <ion-content>
+        <button menuClose ion-item  (click)="logout()">
+          <ion-icon name="log-out"></ion-icon>
+          Log Out
+        </button>
+
+        <button menuClose ion-item *ngFor="let login of adminPages" (click)="openPage(login)">
+          <ion-icon name="medkit"></ion-icon>
+          {{login.title}}
+        </button>
+    </ion-content>
+  </ion-menu>
+
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false" ></ion-nav>

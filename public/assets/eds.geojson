@@ -1,0 +1,1054 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-11-20T13:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/871752140",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9502191,
+          51.9041653
+        ]
+      },
+      "id": "node/871752140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919156726",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2945086,
+          51.802324
+        ]
+      },
+      "id": "node/919156726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1914640757",
+        "Medical": "AED",
+        "access": "Secure via Pin number list of contact numbers for village first responders on site.",
+        "defibrillator:location": "Mounted to external wall in locker",
+        "emergency": "defibrillator",
+        "name": "Community First Responder AED",
+        "note": "Secure via Pin number list of contact numbers for village first responders on site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9983148,
+          53.2218344
+        ]
+      },
+      "id": "node/1914640757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2393460043",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.760616,
+          54.3956765
+        ]
+      },
+      "id": "node/2393460043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2905652356",
+        "access:conditional": "permissive @ (Mo-Th 07:00-10:30;Fr 07:00-21:30;Sa 09:00-18:00;Su 10:00-16:00)",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2497863,
+          53.3438792
+        ]
+      },
+      "id": "node/2905652356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2966893575",
+        "access": "inside building, kitchen, available when doors are open",
+        "emergency": "defibrillator",
+        "location": "inside door, left through door locked behind glass case."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9903799,
+          53.2261313
+        ]
+      },
+      "id": "node/2966893575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3256058896",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2536144,
+          53.3444896
+        ]
+      },
+      "id": "node/3256058896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3298519755",
+        "access": "public",
+        "addr:city": "Bundoran",
+        "addr:county": "Donegal",
+        "addr:housename": "Lifeboat Station",
+        "addr:street": "Pier",
+        "defibrillator:location": "Lifeboat Station Wall",
+        "emergency": "defibrillator",
+        "name": "AED: Bundoran Pier",
+        "note": "AED is a Defib Tech AED. Accessed by PIN. Operated by Bundoran & Ballyshannon Cardiac First Responders.",
+        "phone": "999 or 112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2891338,
+          54.4769105
+        ]
+      },
+      "id": "node/3298519755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3298800880",
+        "access": "permissive",
+        "addr:city": "Donegal Town",
+        "addr:housename": "Abbey Vocational School",
+        "addr:street": "Glebe",
+        "emergency": "defibrillator",
+        "name": "AED: Abbey Vocational School",
+        "note": "AED Type: Defib Tech DDU 100 Operated by Staff / Student CFR Team at Abbey Voc School Accessible between 0900Hrs - 2100Hrs (Mon - Fri) Located on wall at reception",
+        "phone": "00 353 74 97 21105",
+        "website": "http://www.avsdonegal.com/health__safety"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1127687,
+          54.6485488
+        ]
+      },
+      "id": "node/3298800880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3566081835",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0295153,
+          52.9384643
+        ]
+      },
+      "id": "node/3566081835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3566081836",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0369243,
+          52.9427532
+        ]
+      },
+      "id": "node/3566081836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3566081837",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0448847,
+          52.9437507
+        ]
+      },
+      "id": "node/3566081837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787978579",
+        "access": "keypad",
+        "aed:location": "On wall outside Emerson's shop",
+        "emergency": "defibrillator",
+        "name": "Lisnaskea Defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4435025,
+          54.2532941
+        ]
+      },
+      "id": "node/3787978579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788097890",
+        "access": "keypad",
+        "aed:location": "On the wall of the Millennium Hall",
+        "emergency": "defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3930032,
+          54.2185273
+        ]
+      },
+      "id": "node/3788097890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788133726",
+        "access": "lock",
+        "aed:location": "On the wall of the Courthouse",
+        "emergency": "defibrillator",
+        "name": "Newtownbutler Defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3606867,
+          54.1817687
+        ]
+      },
+      "id": "node/3788133726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788133727",
+        "access": "lock",
+        "aed:location": "On the wall of the Credit Union",
+        "emergency": "defibrillator",
+        "name": "Roslea Defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1755073,
+          54.2388281
+        ]
+      },
+      "id": "node/3788133727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788147758",
+        "aed:location": "Inside Club House",
+        "emergency": "defibrillator",
+        "name": "Donagh GAA Defibrillator",
+        "operator": "GAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3901116,
+          54.2161207
+        ]
+      },
+      "id": "node/3788147758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788147759",
+        "aed:location": "Inside Club House",
+        "emergency": "defibrillator",
+        "name": "Aghadrumsee GAA Defibrillator",
+        "operator": "GAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2352384,
+          54.2358461
+        ]
+      },
+      "id": "node/3788147759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788147761",
+        "aed:location": "Inside Club House",
+        "emergency": "defibrillator",
+        "name": "Roslea GAA Defibrillator",
+        "operator": "GAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1701993,
+          54.2397634
+        ]
+      },
+      "id": "node/3788147761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788157753",
+        "aed:location": "On the wall of Carson's Chemist",
+        "emergency": "defibrillator",
+        "name": "Maguiresbridge Defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4647279,
+          54.2938123
+        ]
+      },
+      "id": "node/3788157753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790590609",
+        "access": "keypad",
+        "aed:location": "On the wall beside Post Office",
+        "emergency": "defibrillator",
+        "name": "Magheraveely Defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2862325,
+          54.1972281
+        ]
+      },
+      "id": "node/3790590609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790717406",
+        "aed:location": "Inside BT phone box",
+        "emergency": "defibrillator",
+        "name": "Kesh Defibrillator",
+        "operator": "Red Cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7205417,
+          54.5207236
+        ]
+      },
+      "id": "node/3790717406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790741321",
+        "aed:location": "Inside club house",
+        "emergency": "defibrillator",
+        "name": "Brookeborough GAA Defibrillator",
+        "operator": "GAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3925529,
+          54.3122418
+        ]
+      },
+      "id": "node/3790741321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790741322",
+        "aed:location": "Inside club house",
+        "emergency": "defibrillator",
+        "name": "Lisnaskea GAA Defibrillator",
+        "operator": "GAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4510227,
+          54.249263
+        ]
+      },
+      "id": "node/3790741322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793074105",
+        "aed:location": "Inside the forum building",
+        "emergency": "defibrillator",
+        "name": "Forum Defibrillator",
+        "operator": "Fermanagh & Omagh District Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6428748,
+          54.3428299
+        ]
+      },
+      "id": "node/3793074105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793074106",
+        "aed:location": "On wall outside chemist",
+        "emergency": "defibrillator",
+        "name": "Lisbellaw Defibrillator",
+        "operator": "Public Health Agency (PHA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.535917,
+          54.3173979
+        ]
+      },
+      "id": "node/3793074106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793074108",
+        "aed:location": "Inside the attraction building",
+        "emergency": "defibrillator",
+        "name": "Marble Arch Defibrillator",
+        "operator": "Fermanagh & Omagh District Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8132755,
+          54.2584281
+        ]
+      },
+      "id": "node/3793074108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3796155931",
+        "access": "locked",
+        "aed:location": "Inside centre building",
+        "emergency": "defibrillator",
+        "name": "Castle Park Centre Defibrillator",
+        "operator": "Castle Park Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4466723,
+          54.2537454
+        ]
+      },
+      "id": "node/3796155931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3796155932",
+        "access": "locked",
+        "aed:location": "Inside main office building",
+        "emergency": "defibrillator",
+        "name": "Share Centre Defibrillator",
+        "operator": "Share Holiday Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4767348,
+          54.2118575
+        ]
+      },
+      "id": "node/3796155932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3796185470",
+        "aed:location": "Inside club house",
+        "emergency": "defibrillator",
+        "name": "Lisbellaw FC Defibrillator",
+        "operator": "Lisbellaw United Football Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.519407,
+          54.3094691
+        ]
+      },
+      "id": "node/3796185470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798004850",
+        "aed:location": "Inside museum building",
+        "emergency": "defibrillator",
+        "name": "Enniskillen Museum Defibrillator",
+        "operator": "Fermanagh and Omagh District Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.644449,
+          54.3459682
+        ]
+      },
+      "id": "node/3798004850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798011172",
+        "aed:location": "Inside centre building",
+        "emergency": "defibrillator",
+        "name": "Bawnarce Centre Defibrillator",
+        "operator": "Fermanagh and Omagh District Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6408901,
+          54.4701169
+        ]
+      },
+      "id": "node/3798011172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814819305",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4919933,
+          53.2757048
+        ]
+      },
+      "id": "node/3814819305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4077512574",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4941626,
+          53.2743426
+        ]
+      },
+      "id": "node/4077512574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4363058328",
+        "access": "yes",
+        "addr:city": "Belfast",
+        "addr:housename": "NICVA",
+        "addr:housenumber": "61",
+        "addr:postcode": "BT15 2GB",
+        "addr:street": "Duncairn Gardens",
+        "defibrillator": "automatic",
+        "emergency": "defibrillator",
+        "opening_hours": "Mo-Fr 08:30-17:30",
+        "phone": "+442890877777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9286963,
+          54.6122388
+        ]
+      },
+      "id": "node/4363058328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4678159451",
+        "access": "private",
+        "description": "lifepak CRplus",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "Security Office Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6011713,
+          53.3837363
+        ]
+      },
+      "id": "node/4678159451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683283860",
+        "bicycle": "no",
+        "description": "lifepak CRplus",
+        "emergency": "defibrillator",
+        "foot": "yes",
+        "horse": "no",
+        "level": "1",
+        "motor_vehicle": "no",
+        "name": "Eolas Building Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6020217,
+          53.385225
+        ]
+      },
+      "id": "node/4683283860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683283861",
+        "emergency": "defibrillator",
+        "name": "Apartment Reception Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5968056,
+          53.3856286
+        ]
+      },
+      "id": "node/4683283861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683283862",
+        "description": "Lifepak CRplus \n",
+        "emergency": "defibrillator",
+        "name": "Student Services Center Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5988556,
+          53.383912
+        ]
+      },
+      "id": "node/4683283862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683283863",
+        "emergency": "defibrillator",
+        "name": "Student Union Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6040474,
+          53.3832533
+        ]
+      },
+      "id": "node/4683283863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683327646",
+        "description": "Cardiac Science: PowerHeart G3",
+        "emergency": "defibrillator",
+        "level": "1",
+        "name": "Gym Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6037216,
+          53.3848664
+        ]
+      },
+      "id": "node/4683327646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683327647",
+        "description": "Cardiac Science: PowerHeart G3",
+        "emergency": "defibrillator",
+        "level": "0",
+        "name": "Phoenix Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6038207,
+          53.3843154
+        ]
+      },
+      "id": "node/4683327647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713049015",
+        "access": "private",
+        "description": "Lifepak 1000",
+        "emergency": "defibrillator",
+        "foot": "yes",
+        "indoor": "yes",
+        "name": "Saint Mary's Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5986094,
+          53.3787455
+        ]
+      },
+      "id": "node/4713049015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713049016",
+        "access": "private",
+        "bicycle": "no",
+        "emergency": "defibrillator",
+        "foot": "yes",
+        "horse": "no",
+        "indoor": "yes",
+        "motor_vehicle": "no",
+        "name": "John Paul II Library Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5991543,
+          53.381448
+        ]
+      },
+      "id": "node/4713049016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713049017",
+        "access": "private",
+        "bicycle": "no",
+        "description": "Lifepak 1000",
+        "emergency": "defibrillator",
+        "foot": "yes",
+        "horse": "no",
+        "indoor": "yes",
+        "motor_vehicle": "no",
+        "name": "Gate Lodge Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5945301,
+          53.3806362
+        ]
+      },
+      "id": "node/4713049017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713049018",
+        "access": "no",
+        "bicycle": "no",
+        "description": "Lifepak 1000",
+        "emergency": "defibrillator",
+        "foot": "yes",
+        "horse": "no",
+        "indoor": "yes",
+        "motor_vehicle": "no",
+        "name": "Stoyte House Defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5954513,
+          53.3796756
+        ]
+      },
+      "id": "node/4713049018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736508020",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9935955,
+          53.2772361
+        ]
+      },
+      "id": "node/4736508020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736508621",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9536548,
+          53.1371952
+        ]
+      },
+      "id": "node/4736508621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736508622",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9427944,
+          53.139274
+        ]
+      },
+      "id": "node/4736508622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736508623",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8401061,
+          53.1776456
+        ]
+      },
+      "id": "node/4736508623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4814011478",
+        "aed:location": "On the outside of Leander Lodge B&B, facing the main road",
+        "emergency": "defibrillator",
+        "name": "Leander Lodge Defibrillator",
+        "operator": "Killyfole and District Development Assocation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2825151,
+          54.2302242
+        ]
+      },
+      "id": "node/4814011478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919781862",
+        "access": "yes",
+        "emergency": "defibrillator",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5833897,
+          51.8799047
+        ]
+      },
+      "id": "node/4919781862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919781863",
+        "access": "yes",
+        "emergency": "defibrillator",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5836999,
+          51.8779771
+        ]
+      },
+      "id": "node/4919781863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919781865",
+        "access": "yes",
+        "defibrillator:location": "telephone booth",
+        "emergency": "defibrillator",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5093664,
+          52.0590779
+        ]
+      },
+      "id": "node/4919781865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919781874",
+        "access": "customers",
+        "defibrillator:location": "post security check",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4902336,
+          51.8487401
+        ]
+      },
+      "id": "node/4919781874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919781875",
+        "access": "yes",
+        "defibrillator:location": "lobby",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "layer": "0",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.489964,
+          51.8489253
+        ]
+      },
+      "id": "node/4919781875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931672536",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "location": "outdoor",
+        "note": "Phone Mallow Gardai (+3532221105) for access code.",
+        "opening_hours": "24/7",
+        "operator": "Mallow Search & Rescue",
+        "phone": "+3532221105;+353876353850;+353862316091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6427577,
+          52.1323361
+        ]
+      },
+      "id": "node/4931672536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5061704030",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.9759439,
+          52.0538194
+        ]
+      },
+      "id": "node/5061704030"
+    }
+  ]
+}
